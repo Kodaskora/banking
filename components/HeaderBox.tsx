@@ -1,6 +1,3 @@
-import { title } from 'process';
-import React from 'react';
-
 const HeaderBox = ({
   type = 'title',
   title,
